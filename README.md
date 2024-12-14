@@ -1,4 +1,5 @@
 # DemoRepo
 This is my first Repository
 <br>
-Author: Jhon Thomas
+Author: Jhon Thomas (Apna College)
+
